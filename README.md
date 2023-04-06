@@ -1,4 +1,5 @@
-### Hey, I'm Gary wave
+### Hey, I'm Adam Seid wave
+
 🔭 Self-taught developer that's learning everyday!
 
 🌱 Recently been working with react and django
