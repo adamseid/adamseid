@@ -1,4 +1,4 @@
-### Hey, I'm Adam Seid wave
+### Hey, I'm Adam Seid
 
 🔭 Self-taught developer that's learning everyday!
 
