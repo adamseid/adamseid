@@ -1,4 +1,4 @@
-### Hey, I'm Adam Seid
+### Hey, I'm Adam Seid 👋
 
 🔭 Self-taught developer that's learning everyday!
 
